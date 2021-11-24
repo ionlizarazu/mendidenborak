@@ -8,3 +8,6 @@ recursive-exclude * __pycache__
 
 recursive-include mendidenborak config.json
 recursive-include *.rst
+
+# added by check-manifest
+include *.txt
